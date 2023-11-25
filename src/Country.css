@@ -1,0 +1,19 @@
+.country{
+    border:2px solid tomato;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+}
+.visited{
+    background-color: rgb(0, 128, 0);
+    color: rgba(255, 255, 255, 0.993);
+
+}
+.visited:hover{
+    background-color:rgba(255, 0, 0, 0.897);
+    color: rgba(255, 255, 255, 0.699);
+    
+}
+.visited-2{
+    background-color: rgba(128, 126, 0, 0.39);
+}
